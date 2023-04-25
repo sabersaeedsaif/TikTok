@@ -1,4 +1,4 @@
-Version 2.80. Changelog:
+Version 2.75. Changelog:
 
 > المطور صابر on the latest version of Google Play 28.6.3
 > Removed all ads
