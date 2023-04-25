@@ -1,0 +1,28 @@
+Version 2.80. Changelog:
+
+> المطور صابر on the latest version of Google Play 28.6.3
+> Removed all ads
+> Made video, pictures and GIFs downloading without watermark to Movies/TikTok folder instead of DCIM/Camera
+> Removed all restrictions on downloads, you can download any video
+> Removed many other restrictions
+> The application was cleaned as much as possible
+> Maximum compression + ZipAlign
+> Disabled unnecessary activities
+> Removed restrictions on duets, stitching
+> Rewind is now available in any video
+> Battery drain optimization
+> Removed regional restrictions
+> Fixed Google authorization
+> Fixed Facebook authorization
+> Fixed Twitter authorization
+> Fixed VK authorization
+> Disabled autostart
+> Enabled High Quality Audio
+> Enabled High Quality Video
+> Hidden root rights
+> Disabled InAppBillingService
+> Disabled all types of Analytics
+> Disabled mandatory login
+> Added author tag for the name of the downloaded file
+> Added ability to download profile pictures
+> Monet app icon for Android 13+
